@@ -1,4 +1,4 @@
-# DuhaAly
+# duhaaly1-png
 AI &amp; Machine Learning Student | Computer Vision | Data Science
 # Hi, I'm Duha Aly 👋
 
